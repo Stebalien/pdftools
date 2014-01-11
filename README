@@ -1,0 +1,3 @@
+A zenity-based GUI for manipulating PDFs.
+
+Requires `poppler`.
